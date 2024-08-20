@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Shuvo",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Sextant-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100088042167816",
+    "100088042167816"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100088042167816",
     ""
   ],
   "OWNER": ["100000959749712"], 
